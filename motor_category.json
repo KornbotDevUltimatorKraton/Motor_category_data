@@ -1,0 +1,59 @@
+{
+  "motors": [
+    {
+      "type": "Electric Motor",
+      "categories": [
+        {
+          "name": "DC Motors",
+          "subtypes": [
+            "Brushed DC Motor",
+            "Brushless DC Motor"
+          ]
+        },
+        {
+          "name": "AC Motors",
+          "subtypes": [
+            "Synchronous Motor",
+            "Asynchronous Motor (Induction Motor)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Internal Combustion Engine",
+      "categories": [
+        {
+          "name": "Gasoline Engine",
+          "subtypes": [
+            "Inline Engine",
+            "V Engine",
+            "Boxer Engine"
+          ]
+        },
+        {
+          "name": "Diesel Engine",
+          "subtypes": [
+            "Inline Engine",
+            "V Engine"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Hydraulic Motor",
+      "categories": [
+        "Gear Motor",
+        "Vane Motor",
+        "Piston Motor"
+      ]
+    },
+    {
+      "type": "Stepper Motor",
+      "categories": [
+        "Permanent Magnet Stepper",
+        "Hybrid Stepper",
+        "Variable Reluctance Stepper"
+      ]
+    }
+  ]
+}
